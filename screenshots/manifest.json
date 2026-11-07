@@ -1,0 +1,30 @@
+{
+  "count": 6,
+  "files": [
+    {
+      "file": "01-menu-pl.jpg",
+      "caption": "Menu główne z polskimi napisami Crytivo Club"
+    },
+    {
+      "file": "02-statystyki-pl.jpg",
+      "caption": "Podsumowanie dnia i statystyki firmy"
+    },
+    {
+      "file": "03-badania-pl.jpg",
+      "caption": "Badania i technologie"
+    },
+    {
+      "file": "04-elektrownie-pl.jpg",
+      "caption": "Panel elektrowni podczas rozgrywki"
+    },
+    {
+      "file": "05-magazyny-pl.jpg",
+      "caption": "Magazyny energii podczas rozgrywki"
+    },
+    {
+      "file": "06-stacje-pl.jpg",
+      "caption": "Stacje elektroenergetyczne — opisy i parametry"
+    }
+  ],
+  "source": "Rzeczywista polska wersja gry Steam. Zestaw zaakceptowany i opublikowany na marko22.pl."
+}

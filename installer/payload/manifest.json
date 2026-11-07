@@ -1,0 +1,35 @@
+{
+  "format": "PTTPPLP1+gzip",
+  "product": "Power to the People — PL",
+  "app_id": 1413370,
+  "build_id": "20302782",
+  "version": "1.0.0",
+  "status": "RELEASED",
+  "records": 1677,
+  "game_exe_sha256": "d62c5d0e6b61d2b2f2a94caf442cd5410c4eff59cf81b5b37c23fafde1cf2fb5",
+  "entries": [
+    {
+      "path": "Power to the People_Data/resources.assets",
+      "original_sha256": "d5bdb42de06f8bda9e903219b1b054a39cda64c695ccdce4f0845ceafaf7738c",
+      "installed_sha256": "29c6991bc8e169128974ff890ff6e971630b51dcebd8ad810ac51468926ba9b8",
+      "patch_sha256": "8b301bc698c9c8928e3a894ebf9102a58f8966afb8468f4a7a2cb2404852680b",
+      "original_size": 2278840,
+      "installed_size": 2412576,
+      "patch_file": "i2.patch.gz",
+      "patch_size": 85627,
+      "operations": 3386
+    },
+    {
+      "path": "Power to the People_Data/Managed/Surge.Main.dll",
+      "original_sha256": "4abd311bfb7ead95d46544a3c387b48da8abc963d492d0dd1646a140d573edb2",
+      "installed_sha256": "c028d6827e817da41a07b8af099758acac76cb61f9ca1c0b538d5501d12f03c8",
+      "patch_sha256": "48ca4ce19a46c3270b9f5b52f56fab3ccdd8034d83892ecafc4766fec65c850f",
+      "original_size": 1220096,
+      "installed_size": 1215488,
+      "patch_file": "menu.patch.gz",
+      "patch_size": 331783,
+      "operations": 417
+    }
+  ],
+  "note": "Łatki wymagają własnych zgodnych plików gry; nie zawierają całej gry ani profilu QA."
+}

@@ -1,0 +1,17 @@
+{
+  "backgroundImage": "Games/PowerToThePeople/background.jpg",
+  "brandImage": "Common/marko22-brand.png",
+  "brandIconImage": "Common/marko22-scorpion.png",
+  "brandPosition": "bottom-left",
+  "brandScale": 0.4,
+  "brandOffsetX": 22,
+  "brandOffsetY": 20,
+  "brandCropX": 273,
+  "brandGap": 10,
+  "sectionBackgroundOpacity": 0.0,
+  "supportUrl": "https://paypal.me/mariuszm22",
+  "gameLogoImage": "Games/PowerToThePeople/logo.png",
+  "gameLogoWidth": 360,
+  "gameLogoOffsetX": 34,
+  "gameLogoOffsetY": 240
+}

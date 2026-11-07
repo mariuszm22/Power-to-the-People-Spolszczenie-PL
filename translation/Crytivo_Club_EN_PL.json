@@ -1,0 +1,38 @@
+[
+  {
+    "asset": "Power to the People_Data/level1",
+    "path_id": 4956,
+    "en": "SIGN IN",
+    "pl": "ZALOGUJ SIĘ",
+    "kind": "UnityEngine.UI.Text",
+    "reason": "Tłumaczenie zatwierdzone przez użytkownika; widoczny panel menu Crytivo Club.",
+    "not_part_of_I2_1677": true,
+    "font_size": 24,
+    "best_fit": true,
+    "implementation": "Polish-only runtime text assignment in MainMenu.Start; original level1 unchanged"
+  },
+  {
+    "asset": "Power to the People_Data/level1",
+    "path_id": 5002,
+    "en": "JOIN CRYTIVO CLUB",
+    "pl": "DOŁĄCZ DO CRYTIVO CLUB",
+    "kind": "UnityEngine.UI.Text",
+    "reason": "Tłumaczenie zatwierdzone przez użytkownika; widoczny panel menu Crytivo Club.",
+    "not_part_of_I2_1677": true,
+    "font_size": 26,
+    "best_fit": true,
+    "implementation": "Polish-only runtime text assignment in MainMenu.Start; original level1 unchanged"
+  },
+  {
+    "asset": "Power to the People_Data/level1",
+    "path_id": 4424,
+    "en": "UNLOCK EXCLUSIVE CONTENT",
+    "pl": "ODBLOKUJ EKSKLUZYWNE TREŚCI",
+    "kind": "UnityEngine.UI.Text",
+    "reason": "Tłumaczenie zatwierdzone przez użytkownika; widoczny panel menu Crytivo Club.",
+    "not_part_of_I2_1677": true,
+    "font_size": 18,
+    "best_fit": true,
+    "implementation": "Polish-only runtime text assignment in MainMenu.Start; original level1 unchanged"
+  }
+]

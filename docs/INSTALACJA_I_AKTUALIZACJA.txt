@@ -1,0 +1,31 @@
+Power to the People — Spolszczenie PL 1.0.0 | marko22
+Wydanie 1.0.0. Autor: marko22. Nieoficjalna lokalizacja.
+Zgodność: Steam AppID 1413370, build 20302782. Wymagana własna gra.
+
+INSTALACJA I AKTUALIZACJA
+1. Zamknij grę.
+2. Uruchom marko22-Instalator-PowerToThePeople-PL-1.0.0.exe.
+3. Wskaż katalog zawierający Power to the People.exe (lub użyj wykrytego folderu).
+4. Wybierz „Instaluj spolszczenie” i zatwierdź sprawdzoną instalację.
+5. Rozpoznane wcześniejsze paczki marko22 są aktualizowane bezpośrednio.
+   Nie przywracaj oryginałów wcześniej i nie kasuj folderu backupu.
+6. Po pomyślnym zapisie kreator ustawia Polski (pl), zachowując poprzedni język.
+   Jeśli pojawi się błąd ustawienia języka, postępuj według komunikatu i wybierz
+   Polski ręcznie w Settings / Language. „Auto” nie jest odpowiednikiem Polski.
+7. Uruchom grę samodzielnie. Instalator jej nie uruchamia.
+
+PRZYWRACANIE / ODINSTALOWANIE
+Zamknij grę, użyj tego samego EXE i wybierz „Usuń / przywróć”.
+Oryginalne pliki i poprzedni język zostaną przywrócone. Nie usuwaj katalogu
+.marko22-pttp-pl-rc1 — historyczna nazwa jest celowo zachowana dla zgodności.
+Nie uruchamiaj starszego instalatora do usunięcia wersji 1.0.0.
+
+BEZPIECZEŃSTWO I OGRANICZENIA
+Nieznane sumy plików, brak lub uszkodzenie oryginalnego backupu oraz działająca
+gra blokują operację. Nie zastępuj backupu przetłumaczonym plikiem.
+Aktualizacja samej gry może wymagać nowego spolszczenia.
+Pakiet zawiera 1677 rekordów I2 oraz 3 polskie etykiety Crytivo Club.
+Testy instalatora, menu i wybranych paneli rozgrywki nie zastępują pełnego przejścia gry.
+Szczegółowy zakres zaliczonych testów i BRAK_TESTU podaje raport HTML.
+Dokument Kulisy działa lokalnie, także bez osobnego HTML (jest osadzony w EXE).
+Strony marko22.pl i dobrowolnego wsparcia otwierają się dopiero po kliknięciu.

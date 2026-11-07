@@ -1,0 +1,18 @@
+Power to the People — Spolszczenie PL 1.0.0
+Autor i redakcja: marko22
+
+- Cztery poprawki zatwierdzone po testach w grze.
+- Ujednolicenie wszystkich czterech zgłoszonych użyć „odbiorcy domowi” do „odbiorcy indywidualni”, z odmianą.
+- Zachowane wcześniejsze 21 korekt oraz trzy napisy Crytivo Club.
+- Bezpośrednia aktualizacja rozpoznanych poprzednich paczek, oryginalne backupy i przywracanie.
+- Automatyczny język Polski (pl), sześć kroków i trzy stałe zielone przyciski.
+- Aktualny dokument Kulisy i komplet wyników QA.
+
+Zmienione rekordy (7):
+LevelModifiers/BackupBatteriesDesc
+LevelModifiers/HydroAndGasDesc
+UI/WelcomeLightsOn
+Storage/PowerToGasDescription
+LevelModifiers/ElectricSaunaDesc
+LevelModifiers/ResilientDesc
+LevelModifiers/RightToPowerDesc

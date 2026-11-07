@@ -1,0 +1,72 @@
+[
+  {
+    "id": "LevelModifiers/BackupBatteriesDesc",
+    "en": "*Residential* customers only get unhappy after 2 hours without power.",
+    "previous_pl": "*Odbiorcy domowi* stają się niezadowoleni dopiero po 2 godzinach bez zasilania.",
+    "target_pl": "*Odbiorcy indywidualni* stają się niezadowoleni dopiero po 2 godzinach bez zasilania.",
+    "previous_seq": 420,
+    "rationale": "Dokładna zatwierdzona decyzja użytkownika dla wydania 1.0.0.",
+    "formatting_note": "Zachowane istniejące znaczniki.",
+    "new_seq": 2048
+  },
+  {
+    "id": "LevelModifiers/HydroAndGasDesc",
+    "en": "20% discount on *Hydroelectric* and *Gas-Fired Power Plants*.",
+    "previous_pl": "20% zniżki na *elektrownie wodne* i *elektrownie gazowe*.",
+    "target_pl": "*Koszt budowy* niższy o *20%*.",
+    "previous_seq": 21,
+    "rationale": "Dokładna zatwierdzona decyzja użytkownika dla wydania 1.0.0.",
+    "formatting_note": "Dwie pary gwiazdek zachowane: wyróżniono Koszt budowy oraz 20%; tekst widoczny dokładnie zgodny z decyzją.",
+    "new_seq": 2049
+  },
+  {
+    "id": "UI/WelcomeLightsOn",
+    "en": "Do you have what it takes to keep the lights on?",
+    "previous_pl": "Czy dasz radę nie dopuścić, by zgasły światła?",
+    "target_pl": "Czy uda Ci się utrzymać światła włączone?",
+    "previous_seq": 1553,
+    "rationale": "Dokładna zatwierdzona decyzja użytkownika dla wydania 1.0.0.",
+    "formatting_note": "Zachowane istniejące znaczniki.",
+    "new_seq": 2050
+  },
+  {
+    "id": "Storage/PowerToGasDescription",
+    "en": "Extremely high capacity, but with building and operating costs that are hard to ignore.",
+    "previous_pl": "Niezwykle duża pojemność, ale koszty budowy i eksploatacji, obok których trudno przejść obojętnie.",
+    "target_pl": "Bardzo duża pojemność magazynu energii, ale wysokie koszty budowy i eksploatacji.",
+    "previous_seq": 1057,
+    "rationale": "Dokładna zatwierdzona decyzja użytkownika dla wydania 1.0.0.",
+    "formatting_note": "Zachowane istniejące znaczniki.",
+    "new_seq": 2051
+  },
+  {
+    "id": "LevelModifiers/ElectricSaunaDesc",
+    "en": "25% increased power consumption for *residential* customers.",
+    "previous_pl": "Pobór mocy przez odbiorców *domowych* jest większy o 25%.",
+    "target_pl": "Pobór mocy przez odbiorców *indywidualnych* jest większy o 25%.",
+    "previous_seq": 1793,
+    "rationale": "Zatwierdzone ujednolicenie residential customers; zachowano kontekst i odmianę, pozostały tekst bez zmian.",
+    "formatting_note": "Zachowane istniejące znaczniki.",
+    "new_seq": 2052
+  },
+  {
+    "id": "LevelModifiers/ResilientDesc",
+    "en": "*Residential* customers only get unhappy after 2 hours without power during the day, thanks to the population's resilience and hardiness.",
+    "previous_pl": "*Odbiorcy domowi* stają się niezadowoleni dopiero po 2 godzinach braku zasilania w ciągu dnia, dzięki odporności i wytrzymałości mieszkańców.",
+    "target_pl": "*Odbiorcy indywidualni* stają się niezadowoleni dopiero po 2 godzinach braku zasilania w ciągu dnia, dzięki odporności i wytrzymałości mieszkańców.",
+    "previous_seq": 559,
+    "rationale": "Zatwierdzone ujednolicenie residential customers; zachowano kontekst i odmianę, pozostały tekst bez zmian.",
+    "formatting_note": "Zachowane istniejące znaczniki.",
+    "new_seq": 2053
+  },
+  {
+    "id": "LevelModifiers/RightToPowerDesc",
+    "en": "Unhappy *residential* customers have double the normal impact on the calculation for average customer satisfaction.",
+    "previous_pl": "Niezadowoleni *odbiorcy domowi* mają dwukrotnie większy niż zwykle wpływ na obliczanie średniego zadowolenia odbiorców.",
+    "target_pl": "Niezadowoleni *odbiorcy indywidualni* mają dwukrotnie większy niż zwykle wpływ na obliczanie średniego zadowolenia odbiorców.",
+    "previous_seq": 561,
+    "rationale": "Zatwierdzone ujednolicenie residential customers; zachowano kontekst i odmianę, pozostały tekst bez zmian.",
+    "formatting_note": "Zachowane istniejące znaczniki.",
+    "new_seq": 2054
+  }
+]

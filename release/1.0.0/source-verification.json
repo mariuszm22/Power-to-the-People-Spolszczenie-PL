@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "source_records": 1677,
+  "screenshots": 6,
+  "checks": {
+    "SQLite_export_ID_EN_PL_1677": "PASS",
+    "unchanged_installer_sources_and_assets": "PASS",
+    "release_and_accepted_Kulisy": "PASS",
+    "both_release_deltas_restore_expected_game_files": "PASS",
+    "I2_rebuilt_from_public_translation_matches_release": "PASS",
+    "all_original_languages_preserved": "PASS",
+    "exact_six_approved_game_screenshots": "PASS",
+    "publication_allowlist_no_game_binaries_private_state_or_credentials": "PASS",
+    "README_links_and_gallery": "PASS",
+    "clean_source_build": "PASS: build.ps1 -WizardOnly",
+    "rebuilt_installer_embedded_resources": "PASS: all 8 resources identical to published EXE"
+  },
+  "note": "Repository/source packaging checks; no new gameplay or full linguistic audit performed."
+}

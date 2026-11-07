@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" alt="Power to the People — Spolszczenie PL" width="420"></p>
+<p align="center"><img src="banner.png" alt="Power to the People — Spolszczenie PL" width="100%"></p>
 
 # Power to the People — Spolszczenie PL
 
@@ -11,7 +11,7 @@ Fanowska polska lokalizacja gry **Power to the People**, autorstwa **marko22**.
 ➡️ **[Pobierz instalator z marko22.pl](https://marko22.pl/pobieranie#power-to-the-people)**  
 ➡️ [Opis, galeria i instrukcja](https://marko22.pl/power-to-the-people)
 
-Instalator EXE jest dostępny na marko22.pl. Repozytorium przechowuje rzeczywiste źródła projektu; GitHub Releases nie zostały jeszcze utworzone.
+Instalator EXE jest dostępny na marko22.pl oraz w [wydaniu GitHub v1.0.0](https://github.com/mariuszm22/Power-to-the-People-Spolszczenie-PL/releases/tag/v1.0.0). Repozytorium przechowuje rzeczywiste źródła projektu.
 
 ## 📷 Polska wersja w grze
 

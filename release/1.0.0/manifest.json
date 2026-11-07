@@ -60,7 +60,8 @@
   },
   "distribution": {
     "EXE_in_git": false,
-    "GitHub_Releases_created": false,
-    "Nexus_Mods_published": false
+    "GitHub_Releases_created": true,
+    "Nexus_Mods_published": false,
+    "github_release_url": "https://github.com/mariuszm22/Power-to-the-People-Spolszczenie-PL/releases/tag/v1.0.0"
   }
 }

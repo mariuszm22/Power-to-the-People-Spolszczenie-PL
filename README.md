@@ -9,6 +9,7 @@ Fanowska polska lokalizacja gry **Power to the People**, autorstwa **marko22**.
 **1.0.0** · Windows / Steam · gra **1.3.2**, build **20302782** · AppID **1413370**
 
 ➡️ **[Pobierz instalator z marko22.pl](https://marko22.pl/pobieranie#power-to-the-people)**  
+➡️ [Nexus Mods — ZIP bez instalatora (instrukcja w archiwum)](https://www.nexusmods.com/powertothepeople/mods/1?tab=files)  
 ➡️ [Opis, galeria i instrukcja](https://marko22.pl/power-to-the-people)
 
 Instalator EXE jest dostępny na marko22.pl oraz w [wydaniu GitHub v1.0.0](https://github.com/mariuszm22/Power-to-the-People-Spolszczenie-PL/releases/tag/v1.0.0). Repozytorium przechowuje rzeczywiste źródła projektu.
